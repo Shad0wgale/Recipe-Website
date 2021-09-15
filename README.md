@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-recipes 
+<!-- WRITE IN HERE THE SKILLS UTILIZED WHEN CREATING THIS PROJECT -->
