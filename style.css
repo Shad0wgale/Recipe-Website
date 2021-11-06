@@ -28,3 +28,7 @@ img {
     border-radius: 20px;
     display: block;
 }
+
+.recipes {
+    display:flex;
+}
